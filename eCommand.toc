@@ -1,0 +1,7 @@
+## Interface: 50200
+## Version: 5.2.1
+## Title: eCommand
+## Notes: Provides Several Slashcommands to simplyfi some tasks.
+## Author: Ession
+
+eCommand.lua
