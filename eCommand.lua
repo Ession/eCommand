@@ -35,3 +35,16 @@ SLASH_ECOMMAND_RL1 = "/rl"
 SlashCmdList["ECOMMAND_RL"] = function(msg, editBox)
 	ReloadUI()
 end
+
+
+-- -----------------------------------------------------------------------------
+-- GM
+-- 
+-- Opens the GM petition window
+-- 
+-- /gm
+-- -----------------------------------------------------------------------------
+SLASH_ECOMMAND_GM1 = "/gm"
+SlashCmdList["ECOMMAND_GM"] = function(msg, editBox)
+	HelpFrame:Show()
+end
